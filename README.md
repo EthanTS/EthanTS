@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethan
 Im a Senior at Texas Tech studying computer science.
-My interests are thus:
+I have interests in:
   - Data Structures
   - Algorithms
   - Python / Java / C++ / C
